@@ -5,3 +5,5 @@
 <td><h1 align="center"> Curso de Ciência de Dados - Alura </h1></td></tr>
 
 Estarei postando aqui meus estudos com base na trilha de Ciência de Dados da Alura.
+
+As informações são propriedades da Alura e estão sendo postados aqui conforme desenvolvidos em aula.
